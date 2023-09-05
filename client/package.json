@@ -1,5 +1,5 @@
 {
-  "name": "w_19_text_editor-PWA",
+  "name": "w_19_text_editor-pwa",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
