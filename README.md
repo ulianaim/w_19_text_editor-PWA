@@ -1,5 +1,21 @@
 # w_19_text_editor-PWA
 
+## Project overview
+``` This week we learned about Progreassive Web Application. PWA is A web-base application that can:
+ * Works across different devices platforms.
+ * Provides offline functionality, allowing users to access certain features or content even without an internet connection.
+ * Utilizes service workers to cache and manage resources, enabling faster load times and performance.
+ * Can be easily added to a user's home screen or app drawer for quick access.
+ * Benefits from improved security, as it's served over HTTPS.
+
+In summary PWAs aim to bridge the gap between web and native apps, delivering a more user-friendly and efficient experience for both developers and users.
+
+```
+## Project detais
+```
+In this project I've build text editor that runs in the browser but also can be downloaded to the computer an dthat run without internet.
+```
+
 ## User Story
 
 ```md
@@ -37,3 +53,5 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
+
+The following picture shows the web application's appearance:
